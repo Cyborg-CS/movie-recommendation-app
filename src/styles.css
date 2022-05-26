@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Bitter:wght@500&family=Dancing+Script:wght@700&family=Macondo&family=Pacifico&display=swap");
+
+* {
+  margin: 0px;
+  background-color: rgb(252 231 243);
+  /* background-size: cover; */
+}
+
+.container {
+  margin: auto;
+  text-align: left;
+  max-width: 50vw;
+  min-height: 100vw;
+}
+
+h1 {
+  font-family: "Macondo", cursive;
+  font-size: 50px;
+  color: rgb(244 114 182);
+  text-shadow: 2px 2px #ff0000;
+  padding-top: 2rem;
+  padding-left: 2rem;
+}
+
+#header-text {
+  color: rgb(59 130 246);
+  padding-left: 120px;
+  padding-top: 1rem;
+  text-shadow: 1px 1px rgb(29 78 216);
+}
+
+#genre-btn {
+  text-shadow: 2px 2px #ff0000;
+  color: white;
+  background-color: rgb(244 114 182);
+  margin: auto;
+  margin-left: 1rem;
+  margin-bottom: 1rem;
+  border: solid 1px;
+  border-radius: 6px;
+  padding: 5px;
+  /* margin-top: 1rem; */
+}
+
+#btn-list {
+  margin-top: 1rem;
+  margin-left: 100px;
+}
+
+#list-item {
+  font-family: "Macondo", cursive;
+  list-style: none;
+  padding: 1rem;
+  border: 1px solid #d1d5db;
+  margin-top: 1rem;
+  width: 50vw;
+  /* padding-top : 1rem; */
+  margin: auto;
+  border-radius: 0.5rem;
+}
